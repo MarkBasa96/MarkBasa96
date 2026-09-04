@@ -16,14 +16,7 @@ Microsoft 365, Google Workspace.
 **Still studying:** Zapier, Make.com, Airtable, HubSpot, GoHighLevel, the Claude API, Lovable.
 
 I build small tools to solve my own problems, and I work with AI assistance while relearning to
-code. Two of them are public:
-
-- **[automation-roadmap](https://github.com/MarkBasa96/automation-roadmap)** — a 12-week study
-  tracker I built because I needed one and couldn't find it. Plain HTML, CSS and JavaScript, no
-  frameworks, plus a small WASD game for the evenings when studying isn't happening.
-- **[ask-her-out](https://github.com/MarkBasa96/ask-her-out)** — one HTML file. The No button
-  runs away from the cursor. Not my most transferable work, but it's responsive down to phone
-  widths.
+code.
 
 Finishing a Computer Science degree. Open to technical VA and automation work.
 
