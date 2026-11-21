@@ -22,5 +22,4 @@ code.
 
 Finishing a Computer Science degree. Open to technical VA and automation work.
 
-[LinkedIn](https://www.linkedin.com/in/joemark-basa/)
- · [Portfolio](https://markbasa96.github.io)
+[LinkedIn](https://www.linkedin.com/in/joemark-basa/) · [Portfolio](https://markbasa96.github.io)
