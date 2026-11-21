@@ -1,5 +1,7 @@
 # Joemark Basa
 
+**Portfolio: [markbasa96.github.io](https://markbasa96.github.io)**
+
 Technical Virtual Assistant in Davao City, Philippines. Team Lead at Genashtim, Inc. (remote,
 Singapore), where I lead four VAs through 300+ requests a month — executive assistance,
 scheduling, research, data entry and finance admin. I coordinate the daily workload, run QA
@@ -21,3 +23,4 @@ code.
 Finishing a Computer Science degree. Open to technical VA and automation work.
 
 [LinkedIn](https://www.linkedin.com/in/joemark-basa/)
+ · [Portfolio](https://markbasa96.github.io)
